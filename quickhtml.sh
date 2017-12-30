@@ -24,7 +24,7 @@ fi
 
 # Set some usefule variables
 informative_comment_1="This project created by $USER at $(date), using"
-informative_comment_2="Robert de Lisle's (robert_delisle44@hotmail.com) 'biolerplate' function. Enjoy."
+informative_comment_2="Robert de Lisle's (robert_delisle44@hotmail.com) 'quickhtml' function. Enjoy."
 
 init_dir=$(pwd)
 
